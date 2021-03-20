@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthik-315
-- 👀 I’m WEB Develpoment. I am concentrating on the front-end, but also started learning JS.
+- 👀 I’m interested in WEB Develpoment. I am currently concentrating on the front-end, but also started learning JS.
 - 🌱 I’m Javascript and Django (Python)
 - 💞️ I’m looking to collaborate on any freelance WEB development projects (mostly front-end).
 - 📫 How to reach me:
