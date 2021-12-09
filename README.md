@@ -3,7 +3,8 @@
 - 🌱 I’m learning Javascript, React and planning to enhance my understanding of Django (Python) even more.
 - 💞️ I’m looking to collaborate on any freelance WEB development projects (mostly front-end).
 - 📫 How to reach me:
-      Mail: sk.karthik315@gmail.com, DM me on Twitter: https://twitter.com/skk_dev
+      DM me on Twitter: https://twitter.com/skk_dev, 
+      Mail: sk.karthik315@gmail.com
 
 <!---
 Karthik-315/Karthik-315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
