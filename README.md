@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthik-315
-- 👀 I’m interested in WEB Develpoment. I am currently concentrating on the front-end, but also interested in the Python WEB framework - Django.
-- 🌱 I’m learning Javascript, React and planning to enhance my understanding of Django (Python) even more.
+- 👀 I’m interested in and passionate about WEB Develpoment, primarily concentrating on the front-end development.
+- 🌱 Currently learning Javascript, React and planning to enhance my understanding of Django (Python) even more.
 - 💞️ I’m looking to collaborate on any freelance WEB development projects (mostly front-end).
 - 📫 How to reach me:
       DM me on Twitter: https://twitter.com/skk_dev, 
