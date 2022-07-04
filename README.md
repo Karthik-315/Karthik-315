@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, Welcome! I am Karthik.</h2>
+<h1 align="center">Hey there, Welcome! I am Karthik.</h1>
 
 ## A Little About Me:
 - 👀 I’m interested in and passionate about WEB Develpoment, primarily concentrating on the front-end development.
