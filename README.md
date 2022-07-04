@@ -22,6 +22,7 @@
 </table>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthik-315&theme=react-dark&hide_border=true&radius=15)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!---
 Karthik-315/Karthik-315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
