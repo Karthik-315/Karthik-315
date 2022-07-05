@@ -21,10 +21,11 @@
 
 <div>
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-F2F2F2?style=for-the-badge&logo=git&logoColor=F05032" />
       <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-F2F2F2?style=for-the-badge&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/-Inkscape-e6e6e6?style=for-the-badge&logo=inkscape&logoColor=000000" />
 </div>
 
 ## My Stats:
