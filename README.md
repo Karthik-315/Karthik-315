@@ -11,17 +11,20 @@
 
 ## Tools and Tech:
 <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      
+</div>
+
+<div>
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-F2F2F2?style=for-the-badge&logo=git&logoColor=F05032" />
 </div>
 
 ## My Stats:
